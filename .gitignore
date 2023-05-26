@@ -1,0 +1,10 @@
+# .NET Console App
+bin/
+obj/
+.vs/
+*.suo
+*.user
+*.csproj.user
+*.dll
+*.exe
+/.vscode/
